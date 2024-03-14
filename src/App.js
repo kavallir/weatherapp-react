@@ -67,6 +67,7 @@ export default function App() {
             <input type="submit" value="Search" />
           </form>
         </div>
+        <a href="https://github.com/kavallir/weatherapp-react" target="_blank" rel="noreferrer">Github</a>
       </div>
     );
   }
