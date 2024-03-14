@@ -50,6 +50,7 @@ export default function App() {
             </div>
           </ul>
         </div>
+        <a href="https://github.com/kavallir/weatherapp-react" target="_blank" rel="noreferrer">Github</a>
       </div>
     );
   } else {
